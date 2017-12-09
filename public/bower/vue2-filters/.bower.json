@@ -1,0 +1,14 @@
+{
+  "name": "vue2-filters",
+  "homepage": "https://github.com/freearhey/vue2-filters",
+  "version": "0.2.2",
+  "_release": "0.2.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.2.2",
+    "commit": "1719757c0af07388ab4380ce348f5acb3dee07a9"
+  },
+  "_source": "https://github.com/freearhey/vue2-filters.git",
+  "_target": "^0.2.2",
+  "_originalSource": "freearhey/vue2-filters"
+}
